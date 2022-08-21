@@ -1,0 +1,2 @@
+- `src/max-expects-error.test.js` raises a false positive `jest/max-expects` error.
+- `src/max-expects-no-error.test.js` swaps the test cases and does not raise the error.
